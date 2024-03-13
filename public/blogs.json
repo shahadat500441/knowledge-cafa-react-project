@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://i.ibb.co/hMwdMdr/working-space-business-freelance-concept-top-view-flat-lay-with-hands-working-laptop-toning-flat-lay.jpg",
+      "title": "The Secret Garden",
+      "author": "Frances Hodgson Burnett",
+      "author_img": "https://i.ibb.co/gdnsGQJ/thoughtful-creative-male-journalist-writer-biting-pencil-holding-notebook-writing-schedule-look-thin.jpg",
+      "posted_date": "2024-03-13",
+      "reading_time": 45 ,
+      "hashtags": ["fiction", "classics", "gardens"]
+    },
+    {
+      "id": "2",
+      "cover": "https://i.ibb.co/zsHgdCM/technology-innovation-science-evolution-solution-concept.jpg",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "author_img": "https://i.ibb.co/sPwCrDV/female-painter-pretending-take-color-from-palette.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 50,
+      "hashtags": ["fiction", "classics", "1920s"]
+    },
+    {
+      "id": "3",
+      "cover": "https://i.ibb.co/hMwdMdr/working-space-business-freelance-concept-top-view-flat-lay-with-hands-working-laptop-toning-flat-lay.jpg",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "author_img": "https://i.ibb.co/g688xw7/medium-shot-man-working-laptop.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 55,
+      "hashtags": ["fiction", "romance", "classics"]
+    },
+    {
+      "id": "4",
+      "cover": "https://i.ibb.co/qkqL2jq/circuit-board-chip-technology-concept.jpg",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "author_img": "https://i.ibb.co/XYkHBx4/young-smiling-man-office.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 60,
+      "hashtags": ["fiction", "classics", "justice"]
+    },
+    {
+      "id": "5",
+      "cover": "https://i.ibb.co/M5R5MSG/lauren-mancke-a-OC7-TSLb1o8-unsplash.jpg",
+      "title": "Harry Potter and the Sorcerer's Stone",
+      "author": "J.K. Rowling",
+      "author_img": "https://example.com/author005.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": 65,
+      "hashtags": ["fiction", "fantasy", "magic"]
+    }
+  ]
+  
