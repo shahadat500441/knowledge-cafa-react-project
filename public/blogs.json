@@ -7,7 +7,7 @@
       "author_img": "https://i.ibb.co/gdnsGQJ/thoughtful-creative-male-journalist-writer-biting-pencil-holding-notebook-writing-schedule-look-thin.jpg",
       "posted_date": "2024-03-13",
       "reading_time": 45 ,
-      "hashtags": ["fiction", "classics", "gardens"]
+      "hashtags": ["fiction", "classics"]
     },
     {
       "id": "2",
@@ -17,7 +17,7 @@
       "author_img": "https://i.ibb.co/sPwCrDV/female-painter-pretending-take-color-from-palette.jpg",
       "posted_date": "2024-03-12",
       "reading_time": 50,
-      "hashtags": ["fiction", "classics", "1920s"]
+      "hashtags": ["fiction", "classics"]
     },
     {
       "id": "3",
@@ -27,7 +27,7 @@
       "author_img": "https://i.ibb.co/g688xw7/medium-shot-man-working-laptop.jpg",
       "posted_date": "2024-03-11",
       "reading_time": 55,
-      "hashtags": ["fiction", "romance", "classics"]
+      "hashtags": ["fiction", "romance"]
     },
     {
       "id": "4",
@@ -37,17 +37,8 @@
       "author_img": "https://i.ibb.co/XYkHBx4/young-smiling-man-office.jpg",
       "posted_date": "2024-03-10",
       "reading_time": 60,
-      "hashtags": ["fiction", "classics", "justice"]
-    },
-    {
-      "id": "5",
-      "cover": "https://i.ibb.co/M5R5MSG/lauren-mancke-a-OC7-TSLb1o8-unsplash.jpg",
-      "title": "Harry Potter and the Sorcerer's Stone",
-      "author": "J.K. Rowling",
-      "author_img": "https://example.com/author005.jpg",
-      "posted_date": "2024-03-09",
-      "reading_time": 65,
-      "hashtags": ["fiction", "fantasy", "magic"]
+      "hashtags": ["fiction", "classics"]
     }
+  
   ]
   
